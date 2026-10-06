@@ -2802,6 +2802,33 @@
         "source": "github",
         "repo": "annavetech/kumi"
       }
+    },
+  {
+    "name": "clawd-actor",
+    "description": "While Claude works, Clawd (Claude Code's mascot) acts out the spinner's -ing word and the running tool on a little stage above the prompt: 26 animated scenes, wandering the band, changing scene every 30 seconds on long turns.",
+    "version": "0.3.0",
+    "author": {
+      "name": "Brian Huang",
+      "url": "https://github.com/BrianHuang813"
+    },
+    "homepage": "https://github.com/BrianHuang813/clawd-actor",
+    "repository": "https://github.com/BrianHuang813/clawd-actor",
+    "license": "MIT",
+    "keywords": [
+      "animation",
+      "ui",
+      "spinner",
+      "clawd",
+      "mascot",
+      "fun",
+      "function-hooks",
+      "mod"
+    ],
+    "category": "creative",
+    "source": {
+      "source": "github",
+      "repo": "BrianHuang813/clawd-actor"
     }
+  }
   ]
 }
